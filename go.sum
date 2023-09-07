@@ -1,0 +1,4 @@
+github.com/marcboeker/go-duckdb v1.4.4 h1:ryqd/xaOUtVrfUwKsH8JLw838wr1IdpzEIeR1Abx/wQ=
+github.com/marcboeker/go-duckdb v1.4.4/go.mod h1:wm91jO2GNKa6iO9NTcjXIRsW+/ykPoJbQcHSXhdAl28=
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
